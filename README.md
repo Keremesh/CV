@@ -1,7 +1,7 @@
 ## Keremet Sultanalieva
 
-[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)
-A sentence about who and what you are. Then a sentence about what you've achieved. What excites me about tech is the ability to create - like a ceramicist who can make beautiful and useful vessels out of nothing(dirt), a software developer can create a something beautiful and useful out of letters, numbers and symbols.
+[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)]
+A lawyer who opened her own company, made the website and realised that's the fun part over. What excites me about tech is the ability to create - like a ceramicist who can make beautiful and useful vessels out of nothing(dirt), a software developer can create a something beautiful and useful out of letters, numbers and symbols.
 I am a full stack (Ruby) developer.
 
 <!-- I can do the following things for you…
