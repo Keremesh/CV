@@ -12,8 +12,9 @@ What are you looking for? -->
 
 | Name                         | Description                                                                                           | Tech/tools            |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------- |
-| **Final project**            | A webapp to do x.                                                                                     | React, Jest, etc.     |
-| **Something else worked on** | A webapp to do y.                                                                                     | Ruby                  |
+| **Borrow my Garden**            | A webapp that connects garden owners who do not have time or ability to tend to their garden and people who would like a garden.                                                                                     | Mongo DB (Atlas), Express, React, Node JS, Chakra UI, Jira, Git, Excalidraw     |
+| **Acebook**  | Facebook clone.                                                                                     | Mongo DB, Express, React, Node JS, Bootstrap, Trello, Git                  |
+| **Makers BnB**  | AirBnB clone.                                                                                     | Ruby, Sinatra, Postgres, HTML, CSS, Trello, Git                  |
 | **Virtual keyboard**         | A webapp with a keyboard and output interface to make communication easier for speech-impaired people | JavaScript, HTML, CSS |
 
 ## Work Experience
