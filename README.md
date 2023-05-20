@@ -73,23 +73,26 @@ I honed my communication skills while completing my thesis at university, which 
 
 - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 <!-- - you might also mention aspects some other <skills/knowledge listed below:-->
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile - Jira, Trello
+- OOP - Ruby, JavaScript, Python
+- MERN stack
+- Test Driven Development - RSpec, Jest
+- Databases - Postgres, Mongo DB
+- UI - CSS, Chakra UI
+- Version control - Git & GitHub
+- Diagramming - Excalidraw
 
 #### BBP University (May 2017 to June 2018)
 
 - Master of Laws (LLM), International Business Law
 - Merit
-- Dissertation on Bribery (?)
 
 #### Cardiff Metropolitan University (Oct 2009 to May 2011)
 
 - MBA
 - Pass
-- Dissertation - Brand equity and brands awareness, case study (luxury brands)
-
+<!-- - Dissertation - Brand equity and brands awareness, case study (luxury brands)
+ -->
 #### American University of Central Asia (Aug 2005 to June 2009)
 
 - Law
