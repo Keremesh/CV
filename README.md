@@ -1,8 +1,7 @@
 ## Keremet Sultanalieva
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)]
-A lawyer who opened her own company, made the website and realised that's the fun part over. What excites me about tech is the ability to create - like a ceramicist who can make beautiful and useful vessels out of nothing(dirt), a software developer can create a something beautiful and useful out of letters, numbers and symbols.
-I am a full stack (Ruby) developer.
+A lawyer turned full-stack developer, passionate about the creative aspect of technology. Inspired by the ability to transform simple elements like letters, numbers, and symbols into something beautiful and useful, akin to a ceramicist molding vessels from raw materials. Excited about the possibilities of software development and the opportunity to create impactful solutions.
 
 <!-- I can do the following things for you…
 what can you offer the employer from day 1? Why should someone consider your application?
