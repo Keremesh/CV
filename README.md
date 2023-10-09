@@ -16,13 +16,13 @@ Deployment: Render, Vercel, Surge.sh
 
 ## Projects
 
-| Name       | Description   | Tech/tools            |
-| ------- | -------------------- | ------- |
-| **Statsy** (in progress)  | Full stack web app for tracking and keeping score in a social gaming environment (solo project) | MERN (MongoDB, Express, React, Node); Chakra UI; Git & GitHub; Render, Vercel |
-| **Borrow my Garden** | A platform community project allowing unused garden spaces to be listed by their owners, tackling the allotment shortage in cities (group project) | MERN, Jira, Git & GitHub, Excalidraw |                   
-| **Acebook**  | Facebook clone (group project) | Mongo DB, Express, React, Node JS, Bootstrap, Trello, Git  |
-| **Makers BnB**  | AirBnB clone (group project) | Ruby, Sinatra, Postgres, HTML, CSS, Trello, Git   |
-| **Virtual keyboard**  | A web app with a keyboard and output interface to make communication easier for speech-impaired people (solo project) | JavaScript, HTML, CSS |
+| Name       | Links | Description   | Tech/tools            |
+| ------- | -- | -------------------- | ------- |
+| **Statsy** (in progress)| [Website](https://statsy.onrender.com/) [GitHub](https://github.com/Keremesh/statsy-mern) | Full stack web app for tracking and keeping score in a social gaming environment (solo project) | MERN (MongoDB, Express, React, Node); Chakra UI; Git & GitHub; Render, Vercel |
+| **Borrow my Garden** | [GitHub](https://github.com/Keremesh/BorrowMyGarden)| A platform community project allowing unused garden spaces to be listed by their owners, tackling the allotment shortage in cities (group project) | MERN, Jira, Git & GitHub, Excalidraw |                   
+| **Acebook**  | [GitHub](https://github.com/Keremesh/Acebook) | Facebook clone (group project) | Mongo DB, Express, React, Node JS, Bootstrap, Trello, Git  |
+| **Makers BnB**  | [GitHub](https://github.com/Keremesh/MakersBnB) | AirBnB clone (group project) | Ruby, Sinatra, Postgres, HTML, CSS, Trello, Git   |
+| **Virtual keyboard** | [Website](https://striped-jelly.surge.sh/) [GitHub](https://github.com/Keremesh/Virtual-keyboard) | A web app with a keyboard and output interface to make communication easier for speech-impaired people (solo project) | JavaScript, HTML, CSS |
 
 ## Work Experience
 
