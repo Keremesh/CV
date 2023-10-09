@@ -1,6 +1,6 @@
 ## Keremet Sultanalieva
 
-[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)]
+<!-- [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)] -->
 Junior software engineer, skilled in using tech to drive change in customer service and legal roles. Passionate about harnessing technology's transformative power. A dedicated lifelong learner, constantly staying updated with the latest tech advancements. Excited to innovate and create impactful solutions for meaningful change. 
 
 <!-- I can do the following things for you…
