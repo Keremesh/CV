@@ -1,5 +1,4 @@
-## Keremet Sultanalieva
-
+## My CV
 <!-- [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)] -->
 Junior software engineer, skilled in using tech to drive change in customer service and legal roles. Passionate about harnessing technology's transformative power. A dedicated lifelong learner, constantly staying updated with the latest tech advancements. Excited to innovate and create impactful solutions for meaningful change. 
 
@@ -81,7 +80,7 @@ Here's an example
 
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above) 
 
-- Frequently used paring in order to problemsolve efficiently, requiring teamwork and communication.
+- Frequently used pairing to solve problems efficiently, requiring teamwork and communication.
 you might also mention aspects some other <skills/knowledge listed below:
 - Agile - Jira, Trello
 - OOP - Ruby, JavaScript, Python
